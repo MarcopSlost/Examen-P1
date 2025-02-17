@@ -48,3 +48,11 @@ Para la evaluación del proyecto, se deben entregar los siguientes elementos en 
     📡 Esquema de conexión: Diagrama detallado de conexiones.
     🖼️ Capturas de pantalla de ThingSpeak: Configuración del canal.
     📝 Explicación: Funcionamiento, problemas encontrados y soluciones implementadas.
+
+![Sin título](https://github.com/user-attachments/assets/e3c842f7-35a5-49f2-b87e-9a77d732ea19)
+
+![WhatsApp Image 2025-02-17 at 10 02 13 AM](https://github.com/user-attachments/assets/70617c14-d7f7-4a7a-bc71-43350a0b728b)
+
+
+
+
