@@ -40,6 +40,11 @@ El código en Arduino realiza las siguientes funciones:
         Presión atmosférica
     Obtener la clave de API para escribir datos en el canal.
 
+![WhatsApp Image 2025-02-17 at 10 59 53 AM](https://github.com/user-attachments/assets/c914876c-fd65-4fdf-b088-f133222bdb40)
+![WhatsApp Image 2025-02-17 at 10 59 53 AM (1)](https://github.com/user-attachments/assets/269f167f-5d69-4d50-9897-2bc6a3976a2c)
+![WhatsApp Image 2025-02-17 at 10 59 53 AM (2)](https://github.com/user-attachments/assets/91472fe4-cfb6-4ff9-bd4a-c521dcd0b4b0)
+
+
 📑 Requisitos de Evaluación
 
 Para la evaluación del proyecto, se deben entregar los siguientes elementos en GitHub:
